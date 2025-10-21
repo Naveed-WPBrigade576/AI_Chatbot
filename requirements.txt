@@ -1,0 +1,8 @@
+streamlit
+openai
+sqlalchemy
+groq
+langchain_groq
+langgraph
+python_dotenv
+itsdangerous
